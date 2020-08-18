@@ -1,1 +1,18 @@
-# CSDN-signup
+# csdn-自动签到
+python+selenium实现csdn的自动签到
+
+
+
+本程序使用了python的selenium库
+
+
+
+#### 1.输入自己的账户名和密码
+
+#### 2.程序会使用chromedriever打开网站实现自动签到
+
+
+
+chromedriever请使用对应的chrome版本
+
+镜像源：https://npm.taobao.org/mirrors/chromedriver/
