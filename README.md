@@ -16,3 +16,11 @@ python+selenium实现csdn的自动签到
 chromedriever请使用对应的chrome版本
 
 镜像源：https://npm.taobao.org/mirrors/chromedriver/
+
+
+
+
+
+
+
+2.0完善了1.0中关于抽奖和已经签到的错误
